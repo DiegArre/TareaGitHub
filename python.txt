@@ -1,1 +1,2 @@
 Python es un lenguaje de alto nivel de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código
+python es un lenguaje utilizado para la estadistica a gran escala
